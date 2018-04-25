@@ -1,6 +1,4 @@
 package controleestoque;
-
-
 import java.util.ArrayList;
 import java.util.List;
 
