@@ -1,6 +1,4 @@
 package controleestoque;
-
-
 import java.util.Scanner;
 
 import javax.swing.JOptionPane;
